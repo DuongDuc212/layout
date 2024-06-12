@@ -1,0 +1,20 @@
+.first{
+    /* display: flex; */
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(45deg, rgba(33, 25, 176, 0.443), rgb(27, 100, 159));
+}
+.second{
+    width: 700px;
+    height: 50px;
+    background-position: left center;
+}
+.second ul{
+    font-family: cursive;
+    list-style: none;
+    /* display: flex; */
+}
+.second ul li{
+    margin-right: 30px;
+    margin-top: 10px;
+}
